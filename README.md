@@ -1,4 +1,4 @@
-# ✧･ﾟ: *✧･ﾟ:*  Houseki no Kuni sorter based on **[this code](https://github.com/execfera/charasort)**.  *:･ﾟ✧*:･ﾟ✧
+# ༻✧*  Houseki no Kuni sorter based on **[this code](https://github.com/execfera/charasort)**.  *✧༺
 
 *Instructions from the original creator below:* 
 

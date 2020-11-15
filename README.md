@@ -1,8 +1,7 @@
-# hnksorter
-Houseki no Kuni character sorter based on code from [here](https://github.com/execfera/charasort).
-Instructions from the original creator below: 
+# ✧･ﾟ: *✧･ﾟ:*  Houseki no Kuni sorter based on **[this code](https://github.com/execfera/charasort)**.  *:･ﾟ✧*:･ﾟ✧
 
- 
+*Instructions from the original creator below:* 
+
 
 # charasort
 A web based character sorter. Allows users to run through a manual merge sort of their favorite

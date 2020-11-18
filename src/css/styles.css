@@ -1,6 +1,7 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
-  font-size: 16px;
+  font-size: 14px;
+  color: #7d7d7d;
 }
 
 .container {
@@ -8,6 +9,17 @@ body {
   flex-flow: column nowrap;
   align-items: center;
   margin-top: 1em;
+}
+
+.header {
+  margin: 1em auto;
+  width: 500px;
+  text-align: center; 
+}
+
+.header-img {
+  width: 100%;
+  margin: 10px auto;
 }
 
 .progress {
@@ -19,7 +31,7 @@ body {
 .progressbar {
   position: relative;
   width: 492px;
-  border: 1px solid black;
+  border: 1px solid #cecece;
   padding: 3px;
   margin: 2px 0px;
 }
@@ -34,7 +46,7 @@ body {
 
 .progressfill {
   height: 20px;
-  background-color: lightgreen;
+  background-color: #42eac6;
   width: 0%;
 }
 
@@ -47,7 +59,7 @@ body {
 }
 
 .button {
-  border: 1px solid black;
+  border: 1px solid #42eac6;
   text-align: center;
   padding: 10%;
   grid-column: 2 / 3;
@@ -134,18 +146,16 @@ body {
 
 .sorter > .left {
   grid-column: 1 / 2;
-  border: 1px solid #000000;
 }
 
 .sorter > .right {
   grid-column: 3 / 4;
-  border: 1px solid #000000;
 }
 
 .options {
   margin: 1em auto;
   display: grid;
-  text-align: left;
+  text-align: center;
   grid-template-columns: repeat(3, 1fr);
   grid-gap: 10px;
   width: 450px;
@@ -213,7 +223,7 @@ label:hover {
   display: grid;
   width: 211px;
   grid-template-columns: repeat(2, 1fr);
-  border: 1px solid #000;
+  border: 1px solid #42eac6;
   margin-right: 5px;
 }
 
@@ -257,7 +267,7 @@ label:hover {
   width: 160px;
   padding: 1px 0em 1px 0em;
   grid-column: 2 / 3;
-  border-left: 1px solid #000;
+  border-left: 1px solid #42eac6;
   text-align: center;
 }
 
@@ -271,16 +281,16 @@ label:hover {
 }
 
 a {
-  color: #990000;
+  color: #42eac6;
   font-weight: bold;
   text-decoration: none;
   cursor: pointer;
 }
 
 a:hover {
-  color: #FF6600;
+  color: #1c7464;
 }
 
 a:visited {
-  color: #6600FF;
+  color: #42eac6;
 }

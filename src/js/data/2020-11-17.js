@@ -6,6 +6,7 @@ dataSet[dataSetVersion].options = [
   {
     name: "Remove Non-Gems",
     key: "nongem",
+    checkd: false,
     tooltip: "Check this to remove non-Gem characters."
   }
 ];

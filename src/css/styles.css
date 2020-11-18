@@ -12,13 +12,15 @@ body {
 }
 
 .header {
+  position: relative;
   margin: 1em auto;
   width: 500px;
   text-align: center; 
 }
 
 .header-img {
-  width: 100%;
+  width: 500px;
+  height: auto;
   margin: 10px auto;
 }
 

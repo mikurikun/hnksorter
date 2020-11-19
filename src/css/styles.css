@@ -17,12 +17,13 @@ body {
   width: 500px;
   text-align: center;
   font-size: 16px;
+  color: #13c9a3;
 }
 
 .header-img {
-  width: 460px;
+  width: 450px;
   height: auto;
-  margin: 10px auto;
+  margin: 10px auto 25px;
 }
 
 .progress {
@@ -49,7 +50,7 @@ body {
 
 .progressfill {
   height: 20px;
-  background-color: #42eac6;
+  background-color: #13c9a3;
   width: 0%;
 }
 
@@ -62,7 +63,7 @@ body {
 }
 
 .button {
-  border: 1px solid #42eac6;
+  border: 1px solid #13c9a3;
   text-align: center;
   padding: 10%;
   grid-column: 2 / 3;
@@ -165,7 +166,8 @@ body {
 }
 
 .options > div {
-  font-size: 0.5625em;
+  font-size: 0.75em;
+  grid-column: span 3;
 }
 
 label {
@@ -226,7 +228,7 @@ label:hover {
   display: grid;
   width: 211px;
   grid-template-columns: repeat(2, 1fr);
-  border: 1px solid #42eac6;
+  border: 1px solid #13c9a3;
   margin-right: 5px;
 }
 
@@ -270,7 +272,7 @@ label:hover {
   width: 160px;
   padding: 1px 0em 1px 0em;
   grid-column: 2 / 3;
-  border-left: 1px solid #42eac6;
+  border-left: 1px solid #13c9a3;
   text-align: center;
 }
 
@@ -284,7 +286,7 @@ label:hover {
 }
 
 a {
-  color: #42eac6;
+  color: #13c9a3;
   font-weight: bold;
   text-decoration: none;
   cursor: pointer;
@@ -295,5 +297,5 @@ a:hover {
 }
 
 a:visited {
-  color: #42eac6;
+  color: #13c9a3;
 }

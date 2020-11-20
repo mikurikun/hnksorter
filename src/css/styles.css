@@ -1,7 +1,6 @@
 body {
   font-family: Lucida Sans Unicode, Lucida Grande, sans-serif;
   font-size: 12px;
-  line-height: 1.25em;
   color: #7d7d7d;
 }
 
@@ -281,9 +280,13 @@ label:hover {
   margin: 2em auto 3em;
   display: block;
   text-align: center;
-  font-size: 10px;
   width: 80%;
   line-height: 1.2em;
+}
+
+.info > p {
+  font-size: 10px;
+  line-height: 1.25em;
 }
 
 a {

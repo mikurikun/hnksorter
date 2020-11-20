@@ -281,12 +281,11 @@ label:hover {
   display: block;
   text-align: center;
   width: 80%;
-  line-height: 1.2em;
 }
 
 .info > p {
-  font-size: 10px;
-  line-height: 1.25em;
+    font-size: 1em;
+    line-height: 1.25em;
 }
 
 a {

@@ -1,6 +1,7 @@
 body {
   font-family: Lucida Sans Unicode, Lucida Grande, sans-serif;
-  font-size: 14px;
+  font-size: 12px;
+  line-height: 1.25em;
   color: #7d7d7d;
 }
 
@@ -13,15 +14,15 @@ body {
 
 .header {
   position: relative;
-  margin: 1em auto;
+  margin: 1em auto 2em;
   width: 500px;
   text-align: center;
-  font-size: 16px;
+  font-size: 14px;
   color: #13c9a3;
 }
 
 .header-img {
-  width: 450px;
+  width: 400px;
   height: auto;
   margin: 10px auto 25px;
 }
@@ -58,7 +59,7 @@ body {
   margin: 0px auto;
   display: grid;
   grid-template-columns: 120px 1fr 120px;
-  grid-gap: 5px;
+  grid-gap: 10px;
   width: 420px;
 }
 

@@ -1,7 +1,7 @@
 body {
   font-family: Lucida Sans Unicode, Lucida Grande, sans-serif;
   font-size: 12px;
-  line-height: 1.25em;
+  line-height: 1.35em;
   color: #7d7d7d;
 }
 
@@ -14,17 +14,16 @@ body {
 
 .header {
   position: relative;
-  margin: 1em auto 2em;
+  margin: 0.5em auto 2em;
   width: 500px;
   text-align: center;
-  font-size: 14px;
   color: #13c9a3;
 }
 
 .header-img {
   width: 400px;
   height: auto;
-  margin: 10px auto 25px;
+  margin: 0px auto 25px;
 }
 
 .progress {

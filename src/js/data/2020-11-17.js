@@ -15,7 +15,7 @@ dataSet[dataSetVersion].options = [
 dataSet[dataSetVersion].characterData = [
   {
     name: "Phos (Original, Ch.1 - Ch.19)",
-    img: "5k4EKxx.png",
+    img: "xXUsj1C.png",
     opts: { nongem: false }
   },
   {
@@ -30,7 +30,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Phos (Moon, Ch.56 - Ch.78)",
-    img: "yLLYD8E.png",
+    img: "5k4EKxx.png",
     opts: { nongem: false }
   },
   {
